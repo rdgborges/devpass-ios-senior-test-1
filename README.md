@@ -3,7 +3,7 @@
 
 ## What is expected?
 
-In this test, you have to complete our repository list app by implementing an integration with [Devpass API repository detail endpoint](https://raw.githubusercontent.com/rdgborges/devpass-ios-middle-test-1/main/repositories_endpoint.json) in order to list code repositories of an user.
+In this test, you have to complete our repository list app by implementing an integration with [Devpass API repository detail endpoint](https://raw.githubusercontent.com/rdgborges/devpass-ios-senior-test-1/main/item_detail_endpoint.json) in order to list code repositories of an user.
 
 ## TLDR
 
@@ -27,7 +27,7 @@ So I can decide if I'll contribute to it
 
 #### UI mockups
 
-![Screen Shot 2021-03-13 at 7 24 16 PM](https://user-images.githubusercontent.com/1377307/111074791-8896b780-84c3-11eb-9026-613b7273b296.png)
+![Screen Shot 2021-03-14 at 2 20 43 PM](https://user-images.githubusercontent.com/1377307/111077755-0c0ad580-84d1-11eb-92ca-6a206a41b0fb.png)
 
 ## Solution requirements
 
